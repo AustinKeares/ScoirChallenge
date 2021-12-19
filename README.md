@@ -32,4 +32,4 @@ Robert,Griesemer,19640609
 1. This is a python3 application that looks for csv files in the same directory the python3 file is at. To run it, just type python3 ScoirChallenge.py and follow the prompts that it asks.
 
 ## Assumptions
-1. This application does assume that CSV files have a valid header. 
+1. This application does assume that CSV files have a valid header and the CSV files follow the same format as the example input
